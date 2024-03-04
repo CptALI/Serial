@@ -1,7 +1,7 @@
 This is a repository made to enable my computer to have a wireless connection with another HC-06 module.
 
 It needs an arduino device to be connected via serial COM port to the computer and a HC-06 module to be wired as described below:
-STATE -> Not connected<br \>
+STATE -> Not connected<br />
 EN -> 5v
 RX -> Arduino RX with a voltage devider(Not necessary in short runs)
 TX -> Arduino TX
