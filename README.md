@@ -1,1 +1,1 @@
-This is a repository made for enabling my computer to have a wirelss connection with another HC-06 module.
+This is a repository made to enable my computer to have a wireless connection with another HC-06 module.
